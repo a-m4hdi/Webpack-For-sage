@@ -21,7 +21,7 @@ Sage is a WordPress starter theme with a modern development workflow.
 ## How to user
 * Importe your sage theme. {in our case is project}.
 * run <code>npm init -y</code>.
-* run <code>npm install</code> for install the <code>dependencies</code> and <code> devDependencies </code> located in package.json.
+* run <code>npm install</code> for install the <code>dependencies</code> and <code> devDependencies</code> that located in package.json.
 * run <code>npm run build</code> for build the project.
 * run <code>npm run dev</code> for apply the asset changes live.
 
