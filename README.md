@@ -18,7 +18,7 @@ Sage is a WordPress starter theme with a modern development workflow.
 * Node.js >= 8.0.0
 * Sage 9 theme
 
-## How to user
+## How to use
 * Importe your sage theme. {in our case is project}.
 * run <code>npm init -y</code>.
 * run <code>npm install</code> for install the <code>dependencies</code> and <code> devDependencies</code> that located in package.json.
