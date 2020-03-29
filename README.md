@@ -26,6 +26,6 @@ Sage is a WordPress starter theme with a modern development workflow.
 * run <code>npm run dev</code> for apply the asset changes live.
 
 ## References
-[2] https://webpack.js.org/
+[1] https://webpack.js.org/
 
-[1] https://github.com/roots/sage
+[2] https://github.com/roots/sage
