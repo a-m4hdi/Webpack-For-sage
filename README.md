@@ -1,5 +1,6 @@
 # Webpack-For-sage
 Webpack 4.42.1 for Sage 9 (webpack4sa9e).
+
 Sage is a WordPress starter theme with a modern development workflow.
 ## Vendors
 * Webpack 4.42.1
@@ -16,3 +17,8 @@ Sage is a WordPress starter theme with a modern development workflow.
 ## Requirements
 * Node.js >= 8.0.0
 * Sage 9 theme
+
+## Refrences
+[2] https://webpack.js.org/
+
+[1] https://github.com/roots/sage
